@@ -1,0 +1,2 @@
+# logo
+Logo systemu płatności
